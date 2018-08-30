@@ -537,5 +537,3 @@ collaborative_notes: https://pad.carpentries.org/2018-09-01-IACS            # op
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-
-{% endcomment %}
